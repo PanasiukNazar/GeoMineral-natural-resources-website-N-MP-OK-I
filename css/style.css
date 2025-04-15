@@ -13,6 +13,11 @@
     opacity: 1;
 }
 
+
+.navbar-brand h1 {
+    font-size: 2rem;
+}
+
 h1,
 h2,
 h3,
