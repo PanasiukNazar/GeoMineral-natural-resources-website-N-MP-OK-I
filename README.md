@@ -1,1 +1,1 @@
-# GeoMineral-natural-resources-website-N-MP-OK-I
+[DEMO](https://panasiuknazar.github.io/GeoMineral-natural-resources-website-N-MP-OK-I/)
